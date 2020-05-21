@@ -1,0 +1,1 @@
+The G.19 Statistical Release, "Consumer Credit," reports outstanding credit extended to individuals for household, family, and other personal expenditures, excluding loans secured by real estate.
