@@ -9,7 +9,7 @@ Total consumer credit comprises two major types: revolving and nonrevolving. **R
 
 The G.19 also reports selected terms of credit, including interest rates on new car loans, personal loans, and credit card plans at commercial banks. Historically, the G.19 also included series that measure the terms of credit for motor vehicle loans at finance companies.
 
-To learn about dataset, please visit the [About](https://www.federalreserve.gov/releases/g19/about.htm) webpage for this r on the Federal Reserve Board's website.
+To learn about this data, please visit the [About](https://www.federalreserve.gov/releases/g19/about.htm) webpage for this release on the Federal Reserve Board's website.
 
 #### Data Source
 The dataset included with this resource is presented in CSV, XLS and XML formats. The data files include the following data fields:
