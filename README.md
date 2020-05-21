@@ -4,7 +4,7 @@
 
 # Federal Reserve | Consumer Credit - G.19 Data
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-4fz4xqhseku4o](https://aws.amazon.com/marketplace/pp/prodview-4fz4xqhseku4o). 
 
 ## Main Overview
 The G.19 Statistical Release, "Consumer Credit," reports outstanding credit extended to individuals for household, family, and other personal expenditures, excluding loans secured by real estate.
